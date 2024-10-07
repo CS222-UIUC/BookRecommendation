@@ -59,11 +59,11 @@ The frontend sends demands from the user to the backend and shows information fr
 
 Potential Risks
 
-We might face challenges when trying to call backend methods from the frontend, as this is new territory for us. If we run into problems, we intend to consult our mentor, who has experience in this area. We estimate that the time impact of this is 1-2 days, but it should not affect our overall progress.
+1. We might face challenges when trying to call backend methods from the frontend, as this is new territory for us. If we run into problems, we intend to consult our mentor, who has experience in this area. We estimate that the time impact of this is 1-2 days, but it should not affect our overall progress.
 
-The recommendation model may be inaccurate or even fail. If we encounter this, we will try our best to train and fix it. The time impact of this would be 1-2 weeks. If we cannot fix it, we will probably drop some of the recommendation functions.
+2. The recommendation model may be inaccurate or even fail. If we encounter this, we will try our best to train and fix it. The time impact of this would be 1-2 weeks. If we cannot fix it, we will probably drop some of the recommendation functions.
 
-The development language is new for us, so we may have some issues in writing the code or face program crashes. If we encounter this, we will contact our mentor for help since he has experience with this. The time impact of this may be 1-2 days and would not affect our overall progress.
+3. The development language is new for us, so we may have some issues in writing the code or face program crashes. If we encounter this, we will contact our mentor for help since he has experience with this. The time impact of this may be 1-2 days and would not affect our overall progress.
 
 ## Teamwork
 
