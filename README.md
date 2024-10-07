@@ -54,44 +54,8 @@ The frontend sends demands from the user to the backend and shows information fr
 
 ## Weekly Planning
 
-Week # (Date)
+![image](https://github.com/user-attachments/assets/906cbbbf-2306-4d82-aa36-a02e59d6c0eb)
 
-Tasks
-
-Week 1 (9/20-9/26)
-
-1. Polish rough proposal
-
-Get familiar with backend and frontend language, especially exploring realistic examples applying those frameworks on database systems |
-| Week 2 (9/27-10/3) | 1. Learn similar example’s program architecture, including how they integrate their frontend, backend, database, etc.
-
-Make a UML graph to display class structure and lifecycle of software using draw.io or relevant tools |
-| Week 3 (10/4-10/10) | 1. Design a user-friendly UI/UX layout for frontend, integrating how UI elements are arranged and what interaction feature it should have
-
-Explore relevant books training set for database usage |
-| Week 4 (10/11-10/17) | 1. Explore training method for book recommendation or relevant examples
-
-Create basic UI layout including homepage |
-| Week 5 (10/18-10/24) | 1. Train recommendation model based on existing training set
-
-Create the book database with SQLite |
-| Week 6 (10/25-10/31) | 1. Test model’s performance using the created database, evaluate it and retrain the model if needed until achieving certain quality based on our human feedback
-
-Implement relevant interface for backend to perform relevant SQL queries or inference using trained model |
-| Week 7 (11/1-11/7) | 1. Create URL request for communication between frontend and backend
-
-Create buttons on frontend to run the recommendation process via clicking |
-| Week 8 (11/8-11/14) | 1. Integrate more features, for example, recommend based on user’s preference between frontend and backend to interact with the trained model
-
-Create login page and implement search books feature in frontend |
-| Week 9 (11/15-11/21) | 1. Test the whole process and ensure the smooth user experience for finding the book they like using our recommendation system
-
-Fix potential bugs |
-| Week 10 (11/22-11/28) | 1. Fix potential bugs
-
-Prepare presentation materials
-
-Leave buffer time for any risk |
 
 Potential Risks
 
