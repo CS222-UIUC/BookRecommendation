@@ -71,7 +71,7 @@ To better train our software development skills, everyone in the team will be re
 
 We will hold a weekly meeting with our mentor to make sure everything is on track. We will schedule a time to work together in person on Thursday afternoon in the library. We review what we have done this week and distribute next week's work to every teammate. In the rest of the week, we work individually on our tasks. Additionally, we have a Slack workspace to communicate if we encounter any problems. When we face any problem, we encourage our teammates to immediately communicate with other teammates and the mentor to solve it. If we face a big issue in developing the program, we will consider increasing working time and reassigning tasks in order to keep everything on track.
 
-Continuous Integration
+## Continuous Integration
 
 Use PyTest for unit, integration, and functional testing.
 
