@@ -48,6 +48,8 @@ We use Mocha as the test library for the JavaScript part. Mocha doesn't come wit
 
 We chose to separate our application into a frontend and backend instead of relying on one monolithic application because React makes interactivity easier than writing JavaScript on an HTML page rendered by Django. Essentially, we are using each of our tools for what they’re best at—Django is a great backend, and React a great frontend. This division also makes it easier to develop our user interface in parallel with our backend: we can develop the interface without needing data provided by the backend first, like we would if we only used Django for the whole project.
 
+![image](https://github.com/user-attachments/assets/07732e22-4b34-437b-829e-a90b1d2a67ed)
+
 The frontend sends demands from the user to the backend and shows information from the backend to the user. The data processing part in the backend accepts the demands, decides the data input to the recommendation model, and sends the information needed to be shown to the frontend. It also saves the user’s information and output of the recommendation model to the database. The recommendation model is trained to give recommendations based on the user’s favorite books.
 
 ## Weekly Planning
