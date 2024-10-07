@@ -81,8 +81,8 @@ Use Coverage.py to measure code coverage.
 
 Pull Request Workflow:
 
-Branch from main following a clear naming convention.
+- Branch from main following a clear naming convention.
 
-Create PRs with sufficient testing, request review from peers, and ensure coverage and style checks pass before merging.
+- Create PRs with sufficient testing, request review from peers, and ensure coverage and style checks pass before merging.
 
-Use "Squash and Merge" to keep the main branch clean.
+- Use "Squash and Merge" to keep the main branch clean.
